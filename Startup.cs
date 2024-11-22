@@ -23,31 +23,31 @@ namespace ConsoleToWebApi
             //    await context.Response.WriteAsync("Hello from run first");
             //});
 
-            app.Use(async (context,next) =>
-            {
-                await context.Response.WriteAsync("Hello from run Use-1 1\n");
-                await next();
+            //app.Use(async (context,next) =>
+            //{
+            //    await context.Response.WriteAsync("Hello from run Use-1 1\n");
+            //    await next();
 
-                await context.Response.WriteAsync("Hello from run Use-1 2\n");
-            });
+            //    await context.Response.WriteAsync("Hello from run Use-1 2\n");
+            //});
 
-            app.UseMiddleware<CustomMiddleware1>();
+            //app.UseMiddleware<CustomMiddleware1>();
 
-            app.Map("/testmode", CoutomCode);
+            //app.Map("/testmode", CoutomCode);
 
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("Hello from run Use-3 1\n");
-                await next();
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("Hello from run Use-3 1\n");
+            //    await next();
 
-                await context.Response.WriteAsync("Hello from run Use-3 2\n");
-            });
+            //    await context.Response.WriteAsync("Hello from run Use-3 2\n");
+            //});
 
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("Respond send succesfully!!\n");
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("Respond send succesfully!!\n");
                 
-            });
+            //});
 
             //app.Run(async context =>
             //{
@@ -58,7 +58,7 @@ namespace ConsoleToWebApi
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseRouting(); 
+            app.UseRouting();
 
             app.UseEndpoints(endpoints =>
             {
@@ -73,18 +73,18 @@ namespace ConsoleToWebApi
                 // });
 
 
-                endpoints.MapControllers(); 
-            } );
-    }
-
-        private void CoutomCode(IApplicationBuilder app)
-        {
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("testmode is Respond send succesfully!!\n");
-
+                endpoints.MapControllers();
             });
         }
+
+        //private void CoutomCode(IApplicationBuilder app)
+        //{
+        //    app.Use(async (context, next) =>
+        //    {
+        //        await context.Response.WriteAsync("testmode is Respond send succesfully!!\n");
+
+        //    });
+        //}
 
      
     }
