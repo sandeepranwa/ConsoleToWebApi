@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\controllers\\countriescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:controllers\\countriescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|c:\\users\\mk\\source\\repos\\consoletowebapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA1624D-1A63-445D-83D5-9E9FE923E962}|ConsoleToWebApi.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,76 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CountryModel.cs",
-              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Models\\CountryModel.cs",
-              "RelativeDocumentMoniker": "Models\\CountryModel.cs",
-              "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Models\\CountryModel.cs",
-              "RelativeToolTip": "Models\\CountryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:22:25.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CountriesController1.cs",
-              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Controllers\\CountriesController1.cs",
-              "RelativeDocumentMoniker": "Controllers\\CountriesController1.cs",
-              "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Controllers\\CountriesController1.cs",
-              "RelativeToolTip": "Controllers\\CountriesController1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:59:32.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EmployeeModel.cs",
-              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Models\\EmployeeModel.cs",
-              "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
-              "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Models\\EmployeeModel.cs",
-              "RelativeToolTip": "Models\\EmployeeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T09:11:47.61Z",
+              "WhenOpened": "2024-11-26T10:07:15.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAOAAAAAAAAAA==",
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T09:09:01.993Z",
+              "WhenOpened": "2024-11-26T09:58:04.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:55:30.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T06:44:12.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -120,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\MK\\source\\repos\\ConsoleToWebApi\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",
@@ -128,8 +111,7 @@
               "RelativeToolTip": "Controllers\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T08:59:53.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T08:59:53.397Z"
             }
           ]
         }

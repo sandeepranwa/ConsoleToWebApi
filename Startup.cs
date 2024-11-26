@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using ConsoleToWebApi.Repository;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,6 +14,10 @@ namespace ConsoleToWebApi
         {
             services.AddControllers();
             services.AddTransient<CustomMiddleware1>();
+
+            //services.AddSingleton<IProductRepository, ProductRepository>();
+
+            services.AddTransient<IProductRepository, ProductRepository>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
